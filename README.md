@@ -23,7 +23,7 @@ The Django Polls App is a simple web application built with Django that allows u
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/RitamHalder/myPollsite.git
+    git clone https://github.com/RitamHalder/Machine-Learning-Projects.git
     ```
 
 2. Navigate to the project directory:
