@@ -23,13 +23,13 @@ The Django Polls App is a simple web application built with Django that allows u
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/RitamHalder/myPollaite.git
+    git clone https://github.com/RitamHalder/myPollsite.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd myPollaite
+    cd myPollsite
     ```
 
 3. Create a virtual environment (optional but recommended):
